@@ -1,6 +1,6 @@
 import './App.css';
-import Random from './Components/Random_V1';
-import Tag from './Components/Tag_V1';
+import Random2 from './Components/Random_V2';
+import Tag2 from './Components/Tag_V2';
 
 
 function App() {
@@ -8,8 +8,8 @@ function App() {
     <div className="App">
      <h1>Gif</h1>
      <div className="main-container">
-       <Random />
-       <Tag />
+       <Random2 />
+       <Tag2 />
      </div>
     </div>
   );
